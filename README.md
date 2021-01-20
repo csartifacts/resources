@@ -5,6 +5,9 @@
 * [https://www.artifact-eval.org/](https://www.artifact-eval.org/)
 * [https://sysartifacts.github.io/](https://sysartifacts.github.io/): Systems Research Artifacts
 
+## Advocacy
+* [Artefact Review and Badging: Improving Confidence in our Experimental Results](https://acm-fca.org/2018/11/14/artefactreview/) by [Michel Steuwer](https://michel.steuwer.info/)
+
 ## Artifact Types
 
 * [Proof Artifacts. Guidelines for Submission and Reviewing](https://proofartifacts.github.io/guidelines/) by [Marianna Rapoport](https://mrapoport.com/)
@@ -22,6 +25,12 @@
 
 * [Docker](https://www.docker.com/)
 * [VirtualBox](https://www.virtualbox.org/)
+* [Vagrant](https://www.vagrantup.com/)
+
+## Packaging Instructions
+
+* [Making Your Code Citable](https://guides.github.com/activities/citable-code/): archiving GitHub repositories on Zenodo
+
 
 ## Badging
 
@@ -30,11 +39,13 @@
 # Artifact Preparation
 
 * [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/) by [Rohan Padhye](https://rohan.padhye.org/): 10 actionable tips for preparing a successful artifact
-* [How Are Award-winning Systems Research Artifacts Prepared](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/) by [Manuel Rigger](https://www.manuelrigger.at/): An interview on creating successful artifacts conducted by [Tianyin Xu](https://tianyin.github.io/) for the [ACM SIGOPS blog](https://www.sigops.org/blog/).
 * [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/)
-* [Making Your Code Citable](https://guides.github.com/activities/citable-code/): archiving GitHub repositories on Zenodo
-* [My first artifact: An author's perspective on the POPL'19 Artifact Evaluation process](http://www.simonjf.com/2018/12/14/popl19-aec.html) by [Simon Fowler](http://www.simonjf.com/)
 * [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/)
+* [how to disclose data for double-blind review and make it archived open data upon acceptance](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance.html) by [Daniel Graziotin](https://ineed.coffee/)
+
+## Author Experience Reports
+* [My first artifact: An author's perspective on the POPL'19 Artifact Evaluation process](http://www.simonjf.com/2018/12/14/popl19-aec.html) by [Simon Fowler](http://www.simonjf.com/)
+* [How Are Award-winning Systems Research Artifacts Prepared](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/) by [Manuel Rigger](https://www.manuelrigger.at/): An interview on creating successful artifacts conducted by [Tianyin Xu](https://tianyin.github.io/) for the [ACM SIGOPS blog](https://www.sigops.org/blog/).
 
 # Artifact Reviewing
 
@@ -43,7 +54,6 @@
 * [Experience with Artifact Evaluation for CAV 2015](https://dimjasevic.net/marko/2015/05/23/experience-with-artifact-evaluation/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/)
 * [My Experience of Artifact Evaluation in FPGA2020](https://j7cheng.wordpress.com/2020/07/08/my-experience-of-artifacts-evaluation-in-fpga2020/) by [Jianyi Cheng](https://j7cheng.wordpress.com/)
 * [Why I will never join an Artifacts Evaluation Committee Again](https://inventitech.com/blog/why-i-will-never-review-artifacts-again/) by [Moritz Beller](https://inventitech.com/)
-
 
 # AE Chairing
 
@@ -63,10 +73,11 @@
 
 * [Community expectations for research artifacts and evaluation processes](https://dl.acm.org/doi/10.1145/3368089.3409767): A study of AE calls and an analysis of a reviewer survey to study the community expectations in PL/SE conferences
 * [Getting Research Software to Work: A Case Study on Artifact Evaluation for OOPSLA 2019](http://lisanqd.com/wp-content/uploads/2019/11/accpub-OOPSLA2019-licensed.pdf) by [Erin Dahlgren](https://edahlgren.github.io/accpub/)
+* [Evaluating the artifacts of SIGCOMM papers](https://dl.acm.org/doi/10.1145/3336937.3336944) by Damien Saucez, Luigi Iannone, and Olivier Bonaventure
 
 
-# TODO
+# Broader Reproducibility and Artifact Resources
 
-* https://ctuning.org/ae/
+* [cTuning](https://ctuning.org/ae/): many useful materials about reproducible science and [AE](https://ctuning.org/ae/).
+* [Software Engineering Reproducibility Manifesto (SERM)](https://mboehme.github.io/manifesto) by [Marcel Böhme](https://mboehme.github.io/)
 * [Artifact Evaluation for Reproducible Quantitative Research](https://www.sigarch.org/artifact-evaluation-for-reproducible-quantitative-research/)
-* [Artefact Review and Badging: Improving Confidence in our Experimental Results](https://acm-fca.org/2018/11/14/artefactreview/) by [Michel Steuwer](https://michel.steuwer.info/)
