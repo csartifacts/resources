@@ -11,6 +11,7 @@
 ## Artifact Types
 
 * [Proof Artifacts. Guidelines for Submission and Reviewing](https://proofartifacts.github.io/guidelines/) by [Marianna Rapoport](https://mrapoport.com/)
+* [Checking machine-checked proofs](https://project.inria.fr/coqexchange/checking-machine-checked-proofs/)
 
 ## Hosting Platforms
 
@@ -42,6 +43,7 @@
 * [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/)
 * [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/)
 * [how to disclose data for double-blind review and make it archived open data upon acceptance](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance.html) by [Daniel Graziotin](https://ineed.coffee/)
+* [Generating an Artifact From a Benchmarking Setup as Part of CI](https://www.stefan-marr.de/2019/05/artifacts-from-ci/) by [Stefan Marr](https://www.stefan-marr.de/)
 
 ## Author Experience Reports
 * [My first artifact: An author's perspective on the POPL'19 Artifact Evaluation process](http://www.simonjf.com/2018/12/14/popl19-aec.html) by [Simon Fowler](http://www.simonjf.com/)
@@ -81,3 +83,4 @@
 * [cTuning](https://ctuning.org/ae/): many useful materials about reproducible science and [AE](https://ctuning.org/ae/).
 * [Software Engineering Reproducibility Manifesto (SERM)](https://mboehme.github.io/manifesto) by [Marcel Böhme](https://mboehme.github.io/)
 * [Artifact Evaluation for Reproducible Quantitative Research](https://www.sigarch.org/artifact-evaluation-for-reproducible-quantitative-research/)
+* [SIGPLAN Empirical Evaluation Checklist](http://www.sigplan.org/Resources/EmpiricalEvaluation/)
