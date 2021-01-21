@@ -37,6 +37,9 @@
 
 * [Artifact Review and Badging by ACM](https://www.acm.org/publications/policies/artifact-review-and-badging-current): A description of the badges and their requirements for ACM conferences
 
+## Efforts
+* [SIGSOFT Artifact Evaluation Working Group](https://github.com/acmsigsoft/artifact-evaluation)
+
 # Artifact Preparation
 
 * [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/) by [Rohan Padhye](https://rohan.padhye.org/): 10 actionable tips for preparing a successful artifact
