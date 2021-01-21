@@ -7,6 +7,7 @@
 
 ## Advocacy
 * [Artefact Review and Badging: Improving Confidence in our Experimental Results](https://acm-fca.org/2018/11/14/artefactreview/) by [Michel Steuwer](https://michel.steuwer.info/)
+* [The Real Software Crisis: Repeatability as a Core Value](https://dl.acm.org/doi/10.1145/2658987) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Jan Vitek](http://janvitek.org/)
 
 ## Artifact Types
 
