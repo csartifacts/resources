@@ -58,6 +58,7 @@
 
 ## Author Experience Reports
 * [My first artifact: An author's perspective on the POPL'19 Artifact Evaluation process](http://www.simonjf.com/2018/12/14/popl19-aec.html) by [Simon Fowler](http://www.simonjf.com/)
+* ["Taming the Parallel Effect Zoo" and the PLDI artifact evaluation process](http://composition.al/blog/2014/03/31/taming-the-parallel-effect-zoo-and-the-pldi-artifact-evaluation-process/) by [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) 
 * [How Are Award-winning Systems Research Artifacts Prepared](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/) by [Manuel Rigger](https://www.manuelrigger.at/): An interview on creating successful artifacts conducted by [Tianyin Xu](https://tianyin.github.io/) for the [ACM SIGOPS blog](https://www.sigops.org/blog/).
 
 # Artifact Reviewing
