@@ -71,6 +71,7 @@
 
 * [Reflections on the VMCAI 2021 artifact evaluation](https://sigkill.dk/blog/2020-12-21-vmcai-artifact-evaluation.html) by [Troels Henriksen](https://sigkill.dk/)
 * [OOPSLA 2020 Artifacts Chairs' Report](https://2020.splashcon.org/track/splash-2020-Artifacts#Chairs-Report) by [Colin Gordon](https://www.cs.drexel.edu/~csgordon/) and [Anders Møller](https://www.cs.au.dk/~amoeller/): a report featuring recommendations for future artifact evaluations
+* [Artifact Evaluation for Software Conferences](https://cs.brown.edu/~sk/Memos/Conference-Artifact-Evaluation/esec-fse-2011.html) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
 
 ## Detailed Resources for Chairing an AE
 
