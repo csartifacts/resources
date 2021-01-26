@@ -89,6 +89,7 @@
 * [Getting Research Software to Work: A Case Study on Artifact Evaluation for OOPSLA 2019](http://lisanqd.com/wp-content/uploads/2019/11/accpub-OOPSLA2019-licensed.pdf) by [Erin Dahlgren](https://edahlgren.github.io/accpub/)
 * [Evaluating the artifacts of SIGCOMM papers](https://dl.acm.org/doi/10.1145/3336937.3336944) by Damien Saucez, Luigi Iannone, and Olivier Bonaventure
 * [Publish or perish, but do not forget your software artifacts](https://link.springer.com/article/10.1007/s10664-020-09851-6) by [Robert Heumüller](https://cse.cs.ovgu.de/cse/members/robert-heumueller/), [Sebastian Nielebock](https://cse.cs.ovgu.de/cse/members/sebastian-nielebock/), Jacob Krüger, and [Frank Ortmeier](https://cse.cs.ovgu.de/cse/members/frank-ortmeier/)
+* [Artifact Evaluation: Is It a Real Incentive?](https://ieeexplore.ieee.org/document/8109184) by [Bruce R. Childers](https://people.cs.pitt.edu/~childers/) and [Panos K. Chrysanthis](https://panos.cs.pitt.edu/)
 
 # Broader Reproducibility and Artifact Resources
 
