@@ -37,6 +37,9 @@
 
 * [Making Your Code Citable](https://guides.github.com/activities/citable-code/): archiving GitHub repositories on Zenodo
 
+## Licensing
+* [How to license research artifacts?](https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87) by [Gustavo Pinto](https://gustavopinto.org/)
+* [Choose an open source license](https://choosealicense.com/)
 
 ## Badging
 
