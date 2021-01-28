@@ -69,9 +69,10 @@
 
 ## Reviewer Experience Reports
 
-* [Experience with Artifact Evaluation for CAV 2015](https://dimjasevic.net/marko/2015/05/23/experience-with-artifact-evaluation/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/): Marko provides useful suggestions on improving the AE process as well as research artifacts based on his experience with the CAV AE process.
-* [Why I will never join an Artifacts Evaluation Committee Again](https://inventitech.com/blog/why-i-will-never-review-artifacts-again/) by [Moritz Beller](https://inventitech.com/): Moritz describes his less ideal experience as a reviewer serving for the ESEC/FSE 2000 AE, and provides constructive criticism that is likely to serve future AE chairs.
-* [My Experience of Artifact Evaluation in FPGA2020](https://j7cheng.wordpress.com/2020/07/08/my-experience-of-artifacts-evaluation-in-fpga2020/) by [Jianyi Cheng](https://j7cheng.wordpress.com/): Jianyi documents his experience as an author of an artifact as well as an AEC member of FPGA2020 and gives useful tips for future authors of artifacts.
+* [Experience with Artifact Evaluation for CAV 2015](https://dimjasevic.net/marko/2015/05/23/experience-with-artifact-evaluation/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/): Suggestions on improving the AE process as well as research artifacts based on an experience with the CAV AE process.
+* [Why I will never join an Artifacts Evaluation Committee Again](https://inventitech.com/blog/why-i-will-never-review-artifacts-again/) by [Moritz Beller](https://inventitech.com/): Desciption of an (less ideal) experience as a reviewer serving for the ESEC/FSE 2000 AE, including constructive criticism that is likely to serve future AE chairs.
+* [Making Sure Artifact Reviewing Stays Anonymous](https://dimjasevic.net/marko/2016/02/17/making-sure-artifact-reviewing-stays-anonymous/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/): Thoughts and recommendations on maintaining reviewer (and author) anonymity.
+* [My Experience of Artifact Evaluation in FPGA2020](https://j7cheng.wordpress.com/2020/07/08/my-experience-of-artifacts-evaluation-in-fpga2020/) by [Jianyi Cheng](https://j7cheng.wordpress.com/): An experience report from the perspective of an author of an artifact as well as an AEC member of FPGA2020, including useful tips for future authors of artifacts.
 
 # AE Chairing
 
