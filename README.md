@@ -2,8 +2,8 @@
 
 ## Process
 
-* [https://www.artifact-eval.org/](https://www.artifact-eval.org/)
-* [https://sysartifacts.github.io/](https://sysartifacts.github.io/): Systems Research Artifacts
+* [https://www.artifact-eval.org/](https://www.artifact-eval.org/): General information on the AE process, origins, and packaging guidelines.
+* [https://sysartifacts.github.io/](https://sysartifacts.github.io/): Information on the AE processes in system conferences, including calls, committees, and results.
 
 ## Advocacy
 * [Artefact Review and Badging: Improving Confidence in our Experimental Results](https://acm-fca.org/2018/11/14/artefactreview/) by [Michel Steuwer](https://michel.steuwer.info/)
