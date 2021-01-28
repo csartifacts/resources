@@ -11,8 +11,8 @@
 
 ## Artifact Types
 
-* [Proof Artifacts. Guidelines for Submission and Reviewing](https://proofartifacts.github.io/guidelines/) by [Marianna Rapoport](https://mrapoport.com/)
-* [Checking machine-checked proofs](https://project.inria.fr/coqexchange/checking-machine-checked-proofs/)
+* [Proof Artifacts. Guidelines for Submission and Reviewing](https://proofartifacts.github.io/guidelines/) by [Marianna Rapoport](https://mrapoport.com/): Instructions on creating and reviewing proof artifacts.
+* [Checking machine-checked proofs](https://project.inria.fr/coqexchange/checking-machine-checked-proofs/) by [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/): Instructions on how to review machine-checked proofs as well as suggestions for authors and organizers.
 
 ## Hosting Platforms
 
