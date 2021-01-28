@@ -31,11 +31,11 @@
 
 ## Experimentation and Evaluation
 
-* [emulab](https://www.emulab.net/)
+* [emulab](https://www.emulab.net/): A network testbed to develop, debug, and evaluate systems maintained by the [Flux Research Group](http://www.flux.utah.edu/) at the [University of Utah](https://www.utah.edu/).
 
 ## Packaging Instructions
 
-* [Making Your Code Citable](https://guides.github.com/activities/citable-code/): archiving GitHub repositories on Zenodo
+* [Making Your Code Citable](https://guides.github.com/activities/citable-code/): A [GitHub Guide](https://guides.github.com/) with instructions on how to archive [GitHub](https://github.com/) repositories on [Zenodo](https://zenodo.org/).
 
 ## Licensing
 * [How to license research artifacts?](https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87) by [Gustavo Pinto](https://gustavopinto.org/): A general explanation of the purpose of research artifacts and copyright as well as an overview of open-source licenses for various artifact types.
@@ -43,10 +43,10 @@
 
 ## Badging
 
-* [Artifact Review and Badging by ACM](https://www.acm.org/publications/policies/artifact-review-and-badging-current): A description of the badges and their requirements for ACM conferences
+* [Artifact Review and Badging by ACM](https://www.acm.org/publications/policies/artifact-review-and-badging-current): A description of the badges and the requirements for awarding them for ACM conferences.
 
 ## Efforts
-* [SIGSOFT Artifact Evaluation Working Group](https://github.com/acmsigsoft/artifact-evaluation)
+* [SIGSOFT Artifact Evaluation Working Group](https://github.com/acmsigsoft/artifact-evaluation) by [Jon Bell](https://www.jonbell.net/): A document describing the AE effort in the software engineering field.
 
 # Artifact Preparation
 
