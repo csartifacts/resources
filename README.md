@@ -22,6 +22,8 @@
 * [figshare](https://figshare.com/)
 * [Dryad](https://datadryad.org/stash)
 * [Software Heritage Archive](https://archive.softwareheritage.org/)
+* [ACM Digital Library (ACM DL)](https://dl.acm.org/artifacts/software): A collection of artifacts available in the ACM DL.
+
 
 ## Packaging Platforms
 
