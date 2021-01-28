@@ -70,7 +70,7 @@
 ## Reviewer Experience Reports
 
 * [Experience with Artifact Evaluation for CAV 2015](https://dimjasevic.net/marko/2015/05/23/experience-with-artifact-evaluation/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/): Suggestions on improving the AE process as well as research artifacts based on an experience with the CAV AE process.
-* [Why I will never join an Artifacts Evaluation Committee Again](https://inventitech.com/blog/why-i-will-never-review-artifacts-again/) by [Moritz Beller](https://inventitech.com/): Desciption of an (less ideal) experience as a reviewer serving for the ESEC/FSE 2000 AE, including constructive criticism that is likely to serve future AE chairs.
+* [Why I will never join an Artifacts Evaluation Committee Again](https://inventitech.com/blog/why-i-will-never-review-artifacts-again/) by [Moritz Beller](https://inventitech.com/): Desciption of an (less ideal) experience as a reviewer serving for the ESEC/FSE 2020 AE, including constructive criticism that is likely to serve future AE chairs.
 * [Making Sure Artifact Reviewing Stays Anonymous](https://dimjasevic.net/marko/2016/02/17/making-sure-artifact-reviewing-stays-anonymous/index.html) by [Marko Dimjašević](https://dimjasevic.net/marko/): Thoughts and recommendations on maintaining reviewer (and author) anonymity.
 * [My Experience of Artifact Evaluation in FPGA2020](https://j7cheng.wordpress.com/2020/07/08/my-experience-of-artifacts-evaluation-in-fpga2020/) by [Jianyi Cheng](https://j7cheng.wordpress.com/): An experience report from the perspective of an author of an artifact as well as an AEC member of FPGA2020, including useful tips for future authors of artifacts.
 
@@ -78,10 +78,10 @@
 
 ## Chair Reports
 
-* [Reflections on the VMCAI 2021 artifact evaluation](https://sigkill.dk/blog/2020-12-21-vmcai-artifact-evaluation.html) by [Troels Henriksen](https://sigkill.dk/)
-* [OOPSLA 2020 Artifacts Chairs' Report](https://2020.splashcon.org/track/splash-2020-Artifacts#Chairs-Report) by [Colin Gordon](https://www.cs.drexel.edu/~csgordon/) and [Anders Møller](https://www.cs.au.dk/~amoeller/): a report featuring recommendations for future artifact evaluations
-* [Artifact Evaluation for Software Conferences](https://cs.brown.edu/~sk/Memos/Conference-Artifact-Evaluation/esec-fse-2011.html) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
-* [Interview with Eric Bodden and Alessandra Gorla, ISSTA 2016 Artifact Evaluation Chairs](https://issta2016.cispa.saarland/interview-with-eric-bodden-and-alessandra-gorla-issta-2016-artifact-evaluation-chairs/) by [Eric Bodden](https://www.bodden.de/) and [Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/)
+* [Reflections on the VMCAI 2021 artifact evaluation](https://sigkill.dk/blog/2020-12-21-vmcai-artifact-evaluation.html) by [Troels Henriksen](https://sigkill.dk/): A short experience report from the perspective of a co-chair of the VMCAI 2021 AE, including suggestions for future editions.
+* [OOPSLA 2020 Artifacts Chairs' Report](https://2020.splashcon.org/track/splash-2020-Artifacts#Chairs-Report) by [Colin Gordon](https://www.cs.drexel.edu/~csgordon/) and [Anders Møller](https://www.cs.au.dk/~amoeller/): A report on the OOPSLA 2020 AE featuring recommendations for future artifact evaluations.
+* [Artifact Evaluation for Software Conferences](https://cs.brown.edu/~sk/Memos/Conference-Artifact-Evaluation/esec-fse-2011.html) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/): A report on the first AE process for a major software engineering conference from the perspective of a co-chair.
+* [Interview with Eric Bodden and Alessandra Gorla, ISSTA 2016 Artifact Evaluation Chairs](https://issta2016.cispa.saarland/interview-with-eric-bodden-and-alessandra-gorla-issta-2016-artifact-evaluation-chairs/) by [Eric Bodden](https://www.bodden.de/) and [Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/): An interview of the AE co-chairs of ISSTA 2016.
 
 ## Detailed Resources for Chairing an AE
 
