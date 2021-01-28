@@ -85,9 +85,9 @@
 
 ## Detailed Resources for Chairing an AE
 
-* [How to survive an artifact evaluation with HotCRP](https://docs.google.com/document/d/1_Fq4mq5VJs-sMnBs39rTCEDWktb_qhcSeL3d9Kr4cD0/edit) by [Camil Demetrescu](http://www.dis.uniroma1.it/demetres/): slightly outdated, but still relevant instructions for using HotCRP in the AE process
-* [ACM PPoPP’19 artifact evaluation report and HotCRP configuration](https://www.linkedin.com/pulse/acm-ppopp19-artifact-evaluation-report-hotcrp-grigori-fursin/) by [Grigori Fursin](http://fursin.net/research.html) and [Flavio Vella](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/39806-flavio-vella): the detailed settings of the HotCRP instance configured for the PPoPP’19 AE and a short report on the process
-* ["Artifact Evaluation Artifact" for OOPSLA'13](http://evaluate.inf.usi.ch/artifacts/aea) by [Steve Blackburn](https://users.cecs.anu.edu.au/~steveb/) and [Matthias Hauswirth](https://www.inf.usi.ch/faculty/hauswirth/): detailed description of the first OOPSLA AE process including the timeline, forms, and emails
+* [How to survive an artifact evaluation with HotCRP](https://docs.google.com/document/d/1_Fq4mq5VJs-sMnBs39rTCEDWktb_qhcSeL3d9Kr4cD0/edit) by [Camil Demetrescu](http://www.dis.uniroma1.it/demetres/): Instructions for using HotCRP in the AE process from 2015.
+* [ACM PPoPP’19 artifact evaluation report and HotCRP configuration](https://www.linkedin.com/pulse/acm-ppopp19-artifact-evaluation-report-hotcrp-grigori-fursin/) by [Grigori Fursin](http://fursin.net/research.html) and [Flavio Vella](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/39806-flavio-vella): The detailed settings of the HotCRP instance configured for the PPoPP 2019 AE and a short report on the process.
+* ["Artifact Evaluation Artifact" for OOPSLA'13](http://evaluate.inf.usi.ch/artifacts/aea) by [Steve Blackburn](https://users.cecs.anu.edu.au/~steveb/) and [Matthias Hauswirth](https://www.inf.usi.ch/faculty/hauswirth/): A detailed description of the first OOPSLA AE process including the timeline, forms, and emails.
 
 
 # Systematic Studies and Papers
