@@ -46,7 +46,9 @@
 * [Artifact Review and Badging by ACM](https://www.acm.org/publications/policies/artifact-review-and-badging-current): A description of the badges and the requirements for awarding them for ACM conferences.
 
 ## Efforts
+
 * [SIGSOFT Artifact Evaluation Working Group](https://github.com/acmsigsoft/artifact-evaluation) by [Jon Bell](https://www.jonbell.net/): A document describing the AE effort in the software engineering field.
+* [The ROSE Festival, ESEC/FSE 2018](https://github.com/researchart/rose-fse18/blob/master/cfp.md): The ROSE festival is an effort to promote replication and reproducibility in the software engineering field.
 
 # Artifact Preparation
 
