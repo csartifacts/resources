@@ -1,3 +1,5 @@
+The goal of this page is to provide a resource collection about the Artifact Evaluation (AE) process that has been introduced for many publishing venues in Computer Science (CS).
+
 # General Resources
 
 ## Process
