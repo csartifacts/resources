@@ -110,3 +110,7 @@ The purpose of this page is to provide a resource collection about the Artifact 
 * [Software Engineering Reproducibility Manifesto (SERM)](https://mboehme.github.io/manifesto) by [Marcel Böhme](https://mboehme.github.io/)
 * [Artifact Evaluation for Reproducible Quantitative Research](https://www.sigarch.org/artifact-evaluation-for-reproducible-quantitative-research/)
 * [SIGPLAN Empirical Evaluation Checklist](http://www.sigplan.org/Resources/EmpiricalEvaluation/)
+
+# CC0 1.0 License
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/csartifacts/resources">https://github.com/csartifacts/resources</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.manuelrigger.at/">Manuel Rigger</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
