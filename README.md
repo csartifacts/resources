@@ -1,4 +1,4 @@
-The goal of this page is to provide a resource collection about the Artifact Evaluation (AE) process that has been introduced for many publishing venues in Computer Science (CS).
+The purpose of this page is to provide a resource collection about the Artifact Evaluation (AE) process that has been introduced for many publishing venues in Computer Science (CS) in order to promote and help researchers understand (and improve) the AE process.
 
 # General Resources
 
@@ -32,6 +32,7 @@ The goal of this page is to provide a resource collection about the Artifact Eva
 * [Docker](https://www.docker.com/)
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
+* [Packer](https://www.packer.io/)
 
 ## Experimentation and Evaluation
 
@@ -57,8 +58,8 @@ The goal of this page is to provide a resource collection about the Artifact Eva
 # Artifact Preparation
 
 * [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/) by [Rohan Padhye](https://rohan.padhye.org/): 10 actionable tips for preparing a successful artifact.
-* [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/): author recommendations for preparing artifacts as well as example artifacts.
-* [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/): tips from an AEC member of POPL, PLDI, and OOPSLA.
+* [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/): Author recommendations for preparing artifacts as well as example artifacts.
+* [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/): Tips from an AEC member of POPL, PLDI, and OOPSLA.
 * [how to disclose data for double-blind review and make it archived open data upon acceptance](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance.html) by [Daniel Graziotin](https://ineed.coffee/): Sharing an artifact before paper acceptance in a double-blind way using [figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
 * [Generating an Artifact From a Benchmarking Setup as Part of CI](https://www.stefan-marr.de/2019/05/artifacts-from-ci/) by [Stefan Marr](https://www.stefan-marr.de/): Automatically generating [VirtualBox](https://www.virtualbox.org/) images as part of the Continuous Integration process.
 
@@ -66,6 +67,7 @@ The goal of this page is to provide a resource collection about the Artifact Eva
 
 * [My first artifact: An author's perspective on the POPL'19 Artifact Evaluation process](http://www.simonjf.com/2018/12/14/popl19-aec.html) by [Simon Fowler](http://www.simonjf.com/): A comprehensive report on an artifact submitted to the POPL AE including an overview of the artifact and its structure, author expectations, the actual reviews as well as reflections on the packaging and the process.
 * ["Taming the Parallel Effect Zoo" and the PLDI artifact evaluation process](http://composition.al/blog/2014/03/31/taming-the-parallel-effect-zoo-and-the-pldi-artifact-evaluation-process/) by [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/): A report from the author of a PLDI paper including a description of the process, expectations, and artifact packaging.
+* [Provisioning My First Artifact.](https://jfdm.github.io/post/2019-04-12-My-First-Artifact.html) by [Jan de Muijnck-Hughes](https://jfdm.github.io/): An experience report by an author of a ECOOP 2019 artifact who packaged his artifact as a [VirtualBox](https://www.virtualbox.org/) image.
 * [How Are Award-winning Systems Research Artifacts Prepared](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/): An interview of [Manuel Rigger](https://www.manuelrigger.at/) by [Tianyin Xu](https://tianyin.github.io/) for the [ACM SIGOPS blog](https://www.sigops.org/blog/) on the topic of creating successful artifacts.
 
 # Artifact Reviewing
