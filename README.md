@@ -56,11 +56,11 @@ The goal of this page is to provide a resource collection about the Artifact Eva
 
 # Artifact Preparation
 
-* [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/) by [Rohan Padhye](https://rohan.padhye.org/): 10 actionable tips for preparing a successful artifact
-* [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/)
-* [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/)
-* [how to disclose data for double-blind review and make it archived open data upon acceptance](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance.html) by [Daniel Graziotin](https://ineed.coffee/)
-* [Generating an Artifact From a Benchmarking Setup as Part of CI](https://www.stefan-marr.de/2019/05/artifacts-from-ci/) by [Stefan Marr](https://www.stefan-marr.de/)
+* [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/) by [Rohan Padhye](https://rohan.padhye.org/): 10 actionable tips for preparing a successful artifact.
+* [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit) by [Dan Barowy](http://www.cs.williams.edu/~dbarowy/), [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/), [Emma Tosch](https://blog.emmatosch.com/bio.html), and [John Vilk](https://jvilk.com/): author recommendations for preparing artifacts as well as example artifacts.
+* [Creating successful artifacts](https://hernanponcedeleon.github.io/articles/artifacts.html) by [Hernán Ponce de León](https://hernanponcedeleon.github.io/): tips from an AEC member of POPL, PLDI, and OOPSLA.
+* [how to disclose data for double-blind review and make it archived open data upon acceptance](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance.html) by [Daniel Graziotin](https://ineed.coffee/): Sharing an artifact before paper acceptance in a double-blind way using [figshare](https://figshare.com/) and [Zenodo](https://zenodo.org/).
+* [Generating an Artifact From a Benchmarking Setup as Part of CI](https://www.stefan-marr.de/2019/05/artifacts-from-ci/) by [Stefan Marr](https://www.stefan-marr.de/): Automatically generating [VirtualBox](https://www.virtualbox.org/) images as part of the Continuous Integration process.
 
 ## Author Experience Reports
 
